@@ -5,7 +5,7 @@ const app       = express()
 const APP_PORT  = 8080
 
 //setting endpoint yang dapat di akses user
-app.get('/api/device-detector', Device.index);
+app.get('/', Device.index);
 
 //listen port
 app.listen(APP_PORT, function () {
