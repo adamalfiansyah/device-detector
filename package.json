@@ -12,6 +12,6 @@
   "dependencies": {
     "device-detector-js": "^3.0.0",
     "express": "~4.16.1",
-    "pm2": "^5.1.2"
+    "nodemon": "^2.0.15"
   }
 }
