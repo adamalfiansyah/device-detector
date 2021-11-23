@@ -1,0 +1,2 @@
+APP_PORT=8080
+DB_URL=<ganti pakai url dari mongodb atlas>
